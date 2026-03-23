@@ -255,6 +255,8 @@ venv.bak/
 # mkdocs documentation
 /site
 
+tokenizers/
+
 # mypy
 .mypy_cache/
 .dmypy.json
