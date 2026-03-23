@@ -1,4 +1,4 @@
-# Code Inline
+# code-inline
 
 A lightweight GPT style code completion model
 
