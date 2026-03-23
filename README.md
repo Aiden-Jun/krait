@@ -1,6 +1,6 @@
 # Code Inline
 
-A lightweight GPT-style code completion model trained on Python code.
+A lightweight GPT style code completion model
 
 ## Features
 
